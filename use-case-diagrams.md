@@ -34,7 +34,7 @@
 
 ### Include relationship
 
-□ Label relationship "<<include>>"     
+□ Label relationship `<<include>>`       
 □ Dashed arrow  
 □ Arrow points TO the included use case  
 □ Means ALWAYS happens   
@@ -43,7 +43,7 @@
 
 ### Extend relationship
 
-□ Label relationship "<<extend>>"     
+□ Label relationship `<<extend>>`       
 □ Dashed arrow  
 □ Arrow points TO the base use case  
 □ Means OPTIONAL behaviour   
